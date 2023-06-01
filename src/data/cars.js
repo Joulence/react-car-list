@@ -74,14 +74,14 @@ export const DUMMY_DATA = [
             engine: "Koenigsegg twin turbo aluminum 5,0 L V8",
             power: "1280  HP @ 8500 RPM"
         },
-        description: "The Carrera GT is powered by a 5.7 L (5,733 cc) V10 engine rated at 450 kW (612 PS; 603 hp), whereas the original concept car featured a 5.5-litre version rated at 416 kW (566 PS; 558 hp). A road test in June 2004 by Car and Driver showed that the car can accelerate from 0–60 mph (97 km/h) in 3.5 seconds, 0–100 mph (161 km/h) in 6.8 seconds and 0–209 km/h (130 mph) in 10.8 seconds. The official top speed was 330 km/h (205 mph)."
+        description: "The next Koenigsegg engine achieved a similar feat when the CCR took the world production car top speed record, again from the McLaren F1. In 2014, we announced the Koenigsegg One:1 with a twin-turbo V8 producing 1,360 hp, enough to make the One:1 the first production car in history with a 1:1 power-to-weight ratio. With 1 megawatt of power, the One:1 was the world’s first Megacar."
     },
     {
         id: 7,
         name: "Mercedes-Benz AMG CLK GTR 1998",
         link: "https://www.topgear.com/sites/default/files/2021/07/1998_Mercedes-Benz_AMG_CLK_GTR_002.jpg",
         specifications: {
-            body: "Coupé ",
+            body: "Coupé",
             engine: "6.9L V12 6MT",
             power: "612 HP @ 6800  RPM"
         },
