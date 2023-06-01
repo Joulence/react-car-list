@@ -8,6 +8,7 @@ const CarsList = () => {
         <div className={classes.carList}>
             {DUMMY_DATA.map((item) => (
                 <Card
+                    key={item.id}
                     name={item.name}
                     link={item.link}
                     body={item.specifications.body}
