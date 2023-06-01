@@ -7,6 +7,10 @@
     padding: 24px;
     transition: all .25s ease-in-out;
 }
+.card-spec {
+    display: flex;
+    justify-content: space-between;
+}
 
 .card img {
     width: 100%;
