@@ -2,7 +2,7 @@ export const DUMMY_DATA = [
     {
         id: 0,
         name: "Porsche Boxter 2003",
-        link: "https://9werks.co.uk/images/medium/ddcd2984d56a5f0b6c2e9304da4f5cb8.jpg",
+        link: "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/02q4/267343/2003-porsche-boxster-road-test-review-car-and-driver-photo-9824-s-original.jpg?crop=0.933xw:0.762xh;0.0272xw,0.139xh&resize=1200:*",
         specifications: {
             body: "Roadster",
             engine: "2.7L H6 DOHC 24 valves",
