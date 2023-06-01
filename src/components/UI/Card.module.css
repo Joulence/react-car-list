@@ -6,7 +6,7 @@
     border-radius: 10px;
     padding: 24px;
     cursor: pointer;
-    transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out, height .25s ease-in-out;
 }
 
 .card:hover {
