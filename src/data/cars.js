@@ -19,6 +19,6 @@ export const DUMMY_DATA = [
             engine: "5.7L V10 DOHC 40-valve",
             power: "605 hp @ 8000 rpm"
         },
-        description: "The Carrera GT is powered by a 5.7 L (5,733 cc) V10 engine rated at 450 kW (612 PS; 603 hp), whereas the original concept car featured a 5.5-litre version rated at 416 kW (566 PS; 558 hp).[6] A road test in June 2004 by Car and Driver showed that the car can accelerate from 0–60 mph (97 km/h) in 3.5 seconds,[10] 0–100 mph (161 km/h) in 6.8 seconds[10] and 0–209 km/h (130 mph) in 10.8 seconds. The official top speed was 330 km/h (205 mph)."
+        description: "The Carrera GT is powered by a 5.7 L (5,733 cc) V10 engine rated at 450 kW (612 PS; 603 hp), whereas the original concept car featured a 5.5-litre version rated at 416 kW (566 PS; 558 hp). A road test in June 2004 by Car and Driver showed that the car can accelerate from 0–60 mph (97 km/h) in 3.5 seconds, 0–100 mph (161 km/h) in 6.8 seconds and 0–209 km/h (130 mph) in 10.8 seconds. The official top speed was 330 km/h (205 mph)."
     },
 ]
